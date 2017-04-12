@@ -1,29 +1,29 @@
 # MultiMediaSample
 
-###Android Multimedia¿ò¼Ü×Ü½á°¸Àı£¬°üº¬MediaPlayer,CameraµÈ
+### Android Multimediaæ¡†æ¶æ€»ç»“æ¡ˆä¾‹ï¼ŒåŒ…å«MediaPlayer,Cameraç­‰
 
-1.Camera×Ô¶¨ÒåÏà»ú°¸Àı
+1.Cameraè‡ªå®šä¹‰ç›¸æœºæ¡ˆä¾‹
 ------------
 ![MultiMediaSample](/images/camera3.gif)
 
-2.ĞÂAPI android.hardware.camera2×Ô¶¨ÒåÏà»ú
+2.æ–°API android.hardware.camera2è‡ªå®šä¹‰ç›¸æœº
 ------------
 ![MultiMediaSample](/images/camera3.gif)
 
-3.Ò»ÖÖÊØ»¤½ø³Ì°¸Àı£¨ÈçÓÃÓÚºóÌ¨³£×¤ÒôÀÖ£¬ÏûÏ¢ÍÆËÍµÈ³¡¾°£©
+3.ä¸€ç§å®ˆæŠ¤è¿›ç¨‹æ¡ˆä¾‹ï¼ˆå¦‚ç”¨äºåå°å¸¸é©»éŸ³ä¹ï¼Œæ¶ˆæ¯æ¨é€ç­‰åœºæ™¯ï¼‰
 ------------
 ![MultiMediaSample](/images/guard3.gif)
 
-4.MediaPlayer²¥·ÅÍøÂçÊÓÆµ°¸Àı
+4.MediaPlayeræ’­æ”¾ç½‘ç»œè§†é¢‘æ¡ˆä¾‹
 ------------
 ![MultiMediaSample](/images/mediaplayer.png)
 
-4.MediaCodec½øĞĞcodecÊÓÆµ°¸Àı
+4.MediaCodecè¿›è¡Œcodecè§†é¢‘æ¡ˆä¾‹
 ------------
 ![MultiMediaSample](/images/mediacodec.gif)
 
-####»¶Ó­¹Ø×¢ÎÒµÄ¸öÈË¹«ÖÚºÅ£¬android ¼¼Êõ¸É»õ£¬ÎÊÌâÉî¶È×Ü½á£¬FrameWorkÔ´Âë½âÎö£¬²å¼ş»¯ÑĞ¾¿£¬×îĞÂ¿ªÔ´ÏîÄ¿ÍÆ¼ö
-![ÕâÀïĞ´Í¼Æ¬ÃèÊö](https://github.com/hejunlin2013/RedPackage/blob/master/image/qrcode.jpg)
+#### æ¬¢è¿å…³æ³¨æˆ‘çš„ä¸ªäººå…¬ä¼—å·ï¼Œandroid æŠ€æœ¯å¹²è´§ï¼Œé—®é¢˜æ·±åº¦æ€»ç»“ï¼ŒFrameWorkæºç è§£æï¼Œæ’ä»¶åŒ–ç ”ç©¶ï¼Œæœ€æ–°å¼€æºé¡¹ç›®æ¨è
+![è¿™é‡Œå†™å›¾ç‰‡æè¿°](https://github.com/hejunlin2013/RedPackage/blob/master/image/qrcode.jpg)
 
 License
 --------
